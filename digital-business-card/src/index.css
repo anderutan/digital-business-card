@@ -117,3 +117,16 @@ a {
   line-height: 150%;
   color: #dcdcdc;
 }
+
+.icon-container {
+  display: flex;
+  gap: 25px;
+  justify-content: center;
+  align-items: center;
+  background-color: #161619;
+  height: 64px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}

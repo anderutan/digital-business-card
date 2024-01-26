@@ -46,4 +46,5 @@
   height: 100vh;
   margin: 0 auto;
   background-color: #1a1b21;
+  position: relative;
 }
